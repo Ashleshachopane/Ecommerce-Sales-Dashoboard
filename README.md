@@ -61,7 +61,7 @@ Provides supporting information such as product details, customer demographics, 
 
 Clone this repository:
 
-git clone https://github.com/your-username/ecommerce-sales-dashboard.git
+(https://github.com/Ashleshachopane/Ecommerce-Sales-Dashoboard.git)
 
 
 Open Ecommerce Sales data (1).pbix in Power BI Desktop.
